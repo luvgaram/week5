@@ -17,12 +17,7 @@ namespace w5_5
                         {  
                             for (int Onions = 0; Onions < 2; Onions++)
                             {
-                                
-                                Console.Write("{0} \t", Sausage);
-                                Console.Write("{0} \t", Bun);
-                                Console.Write("{0} \t", Ketchup);
-                                Console.Write("{0} \t", Mustard);
-                                Console.Write("{0} \t", Onions);
+                                Console.Write("{0} \t {1} \t {2} \t {3} \t {4}", Sausage, Bun, Ketchup, Mustard, Onions);
                                 Console.WriteLine();
                             }
                         }
