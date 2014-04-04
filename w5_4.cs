@@ -45,7 +45,6 @@ namespace w5_4
                 {
                     Console.WriteLine("You entered wrong operation. Only +,-,*,/,q are allowed!");
                 }
-            Console.ReadLine(); // for window7 ternimal check
             }  
         }
     }
